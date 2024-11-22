@@ -1,5 +1,4 @@
 import 'package:first_flutter_app/first_screen.dart';
-import 'package:first_flutter_app/main.dart';
 import 'package:first_flutter_app/provider/home_provider.dart';
 import 'package:first_flutter_app/second_screen.dart';
 import 'package:flutter/material.dart';

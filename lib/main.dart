@@ -1,9 +1,7 @@
 import 'package:first_flutter_app/first_screen.dart';
 import 'package:first_flutter_app/home_screen.dart';
-import 'package:first_flutter_app/provider/home_provider.dart';
 import 'package:first_flutter_app/second_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 void main() {
   runApp(MyApp());

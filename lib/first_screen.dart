@@ -16,7 +16,7 @@ class FirstScreen extends StatelessWidget {
               width: 200,
               color: Colors.black,
               child: Text(
-                'this is the first screen',
+                'this is the screen',
                 style: TextStyle(fontSize: 20, color: Colors.amber),
               ),
             ),
